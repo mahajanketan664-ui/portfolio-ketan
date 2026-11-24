@@ -1,5 +1,4 @@
 
-/* Basic Settings */
 
 * {
     box-sizing: border-box;
@@ -13,7 +12,7 @@ body {
 }
 
 
-/* Header */
+
 
 header {
     background-color: white;
@@ -25,7 +24,7 @@ header {
 }
 
 
-/* Profile */
+
 
 .profile {
     display: flex;
@@ -45,7 +44,7 @@ header {
 }
 
 
-/* Navigation */
+
 
 nav {
     display: flex;
@@ -62,7 +61,7 @@ nav a:hover {
 }
 
 
-/* Home */
+
 
 #home {
     background-color: #e5efff;
@@ -81,7 +80,7 @@ nav a:hover {
 }
 
 
-/* All Sections */
+
 
 section {
     padding: 40px 30px;
@@ -93,7 +92,7 @@ section h2 {
 }
 
 
-/* About */
+
 
 #about p {
     max-width: 700px;
@@ -102,7 +101,6 @@ section h2 {
 }
 
 
-/* Skills - Flexbox */
 
 .skills {
     display: flex;
@@ -118,7 +116,6 @@ section h2 {
 }
 
 
-/* Projects - Grid */
 
 .projects {
     display: grid;
@@ -140,7 +137,7 @@ section h2 {
 }
 
 
-/* Buttons */
+
 
 .button {
     display: inline-block;
@@ -157,14 +154,14 @@ section h2 {
 }
 
 
-/* Contact */
+
 
 #contact {
     background-color: #e5efff;
 }
 
 
-/* Footer */
+
 
 footer {
     background-color: #333;
@@ -183,7 +180,7 @@ footer a {
 }
 
 
-/* Mobile Screen */
+
 
 @media (max-width: 700px) {
 
